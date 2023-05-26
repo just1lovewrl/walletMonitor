@@ -25,7 +25,10 @@ npm run dev
 
 ## 使用
 
-https://bitboxtools.github.io/
+https://walletmonitor.zksync.limo/#/zksync
 
 
+## 项目已部署在4everland
 
+## 4everland注册
+https://dashboard.4everland.org?invite=IGNXY8TA
