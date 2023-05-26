@@ -6,7 +6,7 @@ const MyFooter = () => {
         <>
             <Button
                 type="link"
-                href="https://twitter.com/jingluo0"
+                href="https://twitter.com/dashixiong1018"
                 target="_blank"
                 icon={<TwitterOutlined/>}
                 size={"middle"}
