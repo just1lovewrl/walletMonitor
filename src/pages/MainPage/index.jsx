@@ -5,9 +5,7 @@ import Stark from "@pages/Stark/index.jsx";
 import {Layout, FloatButton} from "antd";
 import Layer from "@pages/Layer/index.jsx";
 import Mirror from "@pages/Mirror/index.jsx";
-import Coffee from "@pages/Coffee/index.jsx";
 import Deposit from "@pages/Deposit/index.jsx";
-import Notice from "@components/Notice/index.jsx";
 
 function MainPage() {
     const location = useLocation()
