@@ -50,10 +50,6 @@ const MenuHeader = () => {
             key: 'layer',
         },
         {
-            label: 'Coffee',
-            key: 'coffee',
-        },
-        {
             label: (
                 <a href="https://twitter.com/jingluo0" target="_blank" rel="noopener noreferrer">
                     <TwitterOutlined/>
