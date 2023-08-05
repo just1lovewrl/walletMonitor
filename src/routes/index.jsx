@@ -8,7 +8,6 @@ const Zksync = React.lazy(() => import("@pages/Zksync"));
 const MainPage = React.lazy(() => import("@pages/MainPage"));
 const Stark = React.lazy(() => import("@pages/Stark"));
 const Layer = React.lazy(() => import("@pages/Layer"));
-const Coffee = React.lazy(() => import("@pages/Coffee"));
 const ZkInfo = React.lazy(() => import("@pages/ZkInfo"));
 const router = [
     {
@@ -33,10 +32,6 @@ const router = [
             {
                 path: '/Layer',
                 element: <Layer/>,
-            },
-            {
-                path: '/coffee',
-                element: <Coffee/>,
             },
         ]
     },
