@@ -4,7 +4,6 @@ import {useLocation} from "react-router-dom";
 import Stark from "@pages/Stark/index.jsx";
 import {Layout} from "antd";
 import Layer from "@pages/Layer/index.jsx";
-import Coffee from "@pages/Coffee/index.jsx";
 import ZkInfo from "@pages/ZkInfo/index.jsx";
 import StarkInfo from "@pages/StarkInfo/index.jsx";
 
@@ -53,7 +52,6 @@ function MainPage() {
                         {location.pathname === "/stark" && <Stark/>}
                         {location.pathname === "/stark_info" && <StarkInfo/>}
                         {location.pathname === "/layer" && <Layer/>}
-                        {location.pathname === "/coffee" && <Coffee/>}
                     </div>
                 </div>
             </Layout>
